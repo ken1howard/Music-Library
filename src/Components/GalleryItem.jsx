@@ -35,7 +35,7 @@ const detailView = () => {
         <div style={detailStyle}>
             <h3>{props.song.trackName}</h3>
             <h4>{props.song.collectionName}</h4>
-            <h4>{props.song.primarygenre}</h4>
+            <h4>{props.song.primaryGenreName}</h4>
             <h4>{props.song.releaseDate}</h4>
         </div>
     )
