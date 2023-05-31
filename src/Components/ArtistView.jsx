@@ -10,7 +10,7 @@ function ArtistView() {
     return (
         <div>
             <h2>The id passed was: {id}</h2>
-            <p>Artist Data Goes Here!</p>
+            <p> Artist Data Goes Here!</p>
         </div>
     )
 }
